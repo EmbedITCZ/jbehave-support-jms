@@ -1,0 +1,2 @@
+jms:
+  brokerUrl: vm://localhost?broker.persistent=false

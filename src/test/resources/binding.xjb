@@ -1,0 +1,11 @@
+<jaxb:bindings xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" version="2.0">
+    <jaxb:globalBindings>
+    </jaxb:globalBindings>
+
+    <jaxb:bindings schemaLocation="name.xsd">
+        <jaxb:schemaBindings>
+            <jaxb:package name="org.jbehavesupport.jms.test.oxm"/>
+        </jaxb:schemaBindings>
+    </jaxb:bindings>
+
+</jaxb:bindings>
