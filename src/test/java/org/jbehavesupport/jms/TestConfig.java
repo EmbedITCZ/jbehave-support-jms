@@ -3,7 +3,6 @@ package org.jbehavesupport.jms;
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.jbehavesupport.core.report.XmlReporterFactory;
 import org.jbehavesupport.core.support.YamlPropertySourceFactory;
-import org.jbehavesupport.jms.JmsJaxbHandler;
 import org.jbehavesupport.jms.report.extension.JmsXmlReporterExtension;
 import org.jbehavesupport.jms.test.oxm.NameRequest;
 import org.springframework.beans.factory.annotation.Qualifier;
